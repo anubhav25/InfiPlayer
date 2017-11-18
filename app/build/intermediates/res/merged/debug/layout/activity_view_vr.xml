@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="     "/>
+    <VideoView
+        android:id="@+id/surface1"
+        android:layout_width="0dp"
+        android:foregroundGravity="center"
+        android:layout_gravity="center"
+android:layout_weight="1"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="     "/>
+    <VideoView
+        android:id="@+id/surface2"
+        android:layout_width="0dp"
+        android:foregroundGravity="center"
+        android:layout_gravity="center"
+android:layout_weight="1"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="     "/>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+
+        android:alpha="1"
+        android:visibility="visible"
+        android:id="@+id/lin_lay"
+        >
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_strip_black"
+                android:alpha=".50"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="@string/zero_position"
+                        android:textColor="#ffffff"
+                        android:layout_gravity="center"
+                        android:id="@+id/cur_pos" />
+
+                    <SeekBar
+                        android:id="@+id/prog"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:thumb="@drawable/thumb"
+                        android:progressDrawable="@drawable/blue"
+                        android:layout_marginBottom="15dp"
+                        android:indeterminate="false"
+                        android:layout_weight="1.00" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="@string/zero_position"
+                        android:textColor="#ffffff"
+                        android:layout_gravity="center"
+                        android:id="@+id/total_length" />
+                </LinearLayout>
+
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1"
+                    android:alpha="1">
+                    <TableRow>
+
+                        <FrameLayout
+                            android:layout_height="match_parent"
+                            android:layout_width="match_parent"
+                            android:layout_weight="5">
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/previous"
+                                android:background="@drawable/previous"
+                                android:layout_gravity="center"
+                                android:contentDescription="play"
+                                android:layout_weight="5"/>
+                        </FrameLayout>
+                        <FrameLayout
+                            android:layout_height="match_parent"
+                            android:layout_width="match_parent"
+                            android:layout_weight="5">
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/back"
+                                android:background="@drawable/back"
+                                android:layout_gravity="center"
+                                android:contentDescription="pause"
+                                android:layout_weight="5"/>
+                        </FrameLayout>
+                        <FrameLayout
+                            android:layout_height="match_parent"
+                            android:layout_width="match_parent"
+                            android:layout_weight="5">
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/play"
+                                android:background="@drawable/play1"
+                                android:contentDescription="play"
+                                android:layout_gravity="center"
+                                android:visibility="gone"/>
+
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/pause"
+                                android:background="@drawable/pause"
+                                android:contentDescription="pause"
+                                android:layout_gravity="center"
+                                android:visibility="visible"/>
+                        </FrameLayout>
+                        <FrameLayout
+                            android:layout_height="match_parent"
+                            android:layout_width="match_parent"
+                            android:layout_weight="5">
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/forward"
+                                android:background="@drawable/fwd"
+                                android:contentDescription="play"
+                                android:layout_weight="5"
+                                android:layout_gravity="center"
+                                />
+                        </FrameLayout>
+                        <FrameLayout
+                            android:layout_height="match_parent"
+                            android:layout_width="match_parent"
+                            android:layout_weight="5"
+                            >
+                            <ImageButton
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:id="@+id/next"
+                                android:background="@drawable/next"
+                                android:contentDescription="pause"
+                                android:layout_weight="5"
+                                android:layout_gravity="center"
+                                />
+                        </FrameLayout>
+
+                    </TableRow>
+                </TableLayout></LinearLayout></FrameLayout></LinearLayout>
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/speaker"
+        android:layout_gravity="center"
+        android:background="@drawable/volume"
+        android:alpha="1"
+        android:visibility="gone"/>
+
+    <SeekBar
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/audio"
+        android:layout_gravity="center_horizontal|top"
+        android:visibility="invisible"
+
+        android:thumb="@drawable/thumb"
+        android:progressDrawable="@drawable/blue"
+        />
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/bright"
+        android:layout_gravity="center"
+        android:background="@drawable/brightness"
+        android:alpha="1"
+        android:visibility="gone"/>
+
+    <SeekBar
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/brightness"
+        android:layout_gravity="center_horizontal|top"
+        android:visibility="invisible"
+
+        android:thumb="@drawable/thumb"
+        android:progressDrawable="@drawable/blue"/>
+    <ImageButton
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:id="@+id/paused"
+        android:layout_gravity="center"
+        android:background="@drawable/play1"
+        android:alpha="1"
+        android:visibility="gone"/>
+
+
+</FrameLayout>

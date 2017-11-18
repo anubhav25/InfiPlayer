@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.ANUBHAV.INFI_Player"
+        minSdkVersion 16
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:recyclerview-v7:25.1.0'
+    compile 'com.android.support:support-v4:25.1.0'
+    compile 'com.google.firebase:firebase-messaging:10.0.1'
+    compile 'com.android.support:appcompat-v7:25.1.0'
+  
+}
+// Add to the bottom of the file
+apply plugin: 'com.google.gms.google-services'

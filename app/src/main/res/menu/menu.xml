@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="@string/modeon"
+        android:id="@+id/set_tings"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/view"
+        android:id="@+id/view_f_or_i"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/youTube"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/title_activity_you_tube"/>
+    <item
+        android:title="@string/About_Us"
+        android:id="@+id/About_Us"
+        app:showAsAction="never"/>
+
+
+
+
+</menu>

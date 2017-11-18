@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background_strip_black.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\background_strip_black.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play1.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\play1.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mute.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\mute.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\previous.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\previous.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\thumb.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\thumb.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pause.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\pause.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\reset.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\reset.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_cyan.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\progress_cyan.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background_strip.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\background_strip.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\brightness.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\brightness.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fwd.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\fwd.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blue.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\blue.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_red.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\progress_red.png"
+    },
+    {
+        "merged": "F:\\WORK\\project\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\volume.png",
+        "source": "F:\\WORK\\project\\VideoPlayer1\\app\\src\\main\\res\\drawable-mdpi\\volume.png"
+    }
+]

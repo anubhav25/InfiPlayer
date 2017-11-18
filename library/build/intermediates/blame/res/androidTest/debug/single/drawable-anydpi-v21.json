@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\evp_action_restart.xml",
+        "source": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\evp_action_restart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\evp_action_pause.xml",
+        "source": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\evp_action_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\evp_action_play.xml",
+        "source": "C:\\Users\\ANUBHAV\\Desktop\\VideoPlayer1\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\evp_action_play.xml"
+    }
+]

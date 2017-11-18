@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="79706381585392"
+    token="-8486066693287401655"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="53567" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2302" />
+    <task
+        name="verifier"
+        duration="974" />
+
+    <artifact
+        location="F:\WORK\project\VideoPlayer1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="79706381585392"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\WORK\project\VideoPlayer1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

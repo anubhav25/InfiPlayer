@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\3935692153ec07cf2499ad1d88f4baeb9e709820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_f24135241a0304be0928f996a70b2ad3100dbc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\eddf208676f6171d5b1c09818026b628f47c36cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_4740a83da15ae60eed22d37651c8cea514696073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\595e57aae5acb0ece3ada89a54172ba30f75a62a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_5e75892641c01b414bb7c4f5f474292013484baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\900a6598e97edcda145011ed2283ab23e33383f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_bab82bf386b9d03d045a39081e02c4ed72e068fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\440bbbe291d2dddb04f43f571b77110c31233481\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_16f6c89b2255f1c79e914314e63bea5d3dd59952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\e4f6b9ab25933a4b61efd60c3bf626a7f6756b4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_5add5c05638685c13785a4fa33629d0928a49de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\0e63c61c70b3518572f5125238d7a50e927e2f6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_08fb187d7fb364613b1feeb8afae7a8495710c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\2c64948d6f17ac443aad3d422244a825779abb26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_3b384b99ce08034ab49e4dca8a1b43972f420ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\3cea5eec24c4d47855817a84fbe9041217dfa384\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_a2e745d0570aefd05fd975d773481a2008ebf6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_cd20269085d838508b177f7b915246ee59754681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\ae19fecdec352e0efb19c7d3cd84c04d09e52796\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_851eee24f5afc2ee5e09c839a4c53cc654fd31dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\18de02b3e30574a294605ba6acb142f85482fd2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_4d176e890854529a9e42f7fb43ccfd95cf70f4ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\e5dc5e34a166394a326acdd6e67486742f005d13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_21d2b06bb0a896c57767f9acd8eac262011bc6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\0b9b933bda1ac8be4aac1416df87255df466f7c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_0b037de647d29ea561a0f1b604ce27a5270f66c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\77b85de3576caf3e1a3eb2f1a576a6fed65a90bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_98690c783a8a3d3bfb1817defe579ec070499ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\8827e035063959d8a46fff7e33682ba2a8b9a3fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_e25ff9f9e52cc2e0b7919cc04a1c9be9eb14f405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\5dde1eef8ca63043f23e5959312694e0b2c2d7ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_444f4ac4cb870cdf7f8ad66414d4eb53a004a833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ANUBHAV\.android\build-cache\9dae360575c295b1dad348d9415c06668ca91a26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\WORK\project\VideoPlayer1\app\build\intermediates\pre-dexed\debug\classes_2413203348024c0971f4f1b99686990b10cd8c4e.jar" />
+    </item>
+
+</items>

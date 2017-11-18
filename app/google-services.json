@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "693881286581",
+    "firebase_url": "https://infi-player-1118b.firebaseio.com",
+    "project_id": "infi-player-1118b",
+    "storage_bucket": "infi-player-1118b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693881286581:android:13a0121554b2735b",
+        "android_client_info": {
+          "package_name": "com.ANUBHAV.INFI_Player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693881286581-avg6h3r32927i48llqmr5i4gfog564o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUv9zOyTkVFJ5LcZHsNo0q-Lq5B60uts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
